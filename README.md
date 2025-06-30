@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I can switch languages (Java ↔ JavaScript) faster than my CI/CD builds run!
 
 ## 🌐 Socials
-[![Portfolio](https://gptocr-9ce3d.web.app)  
+[![LinkedIn](https://www.logoku.com/image/d/data/items1/1725720264_logokucom_book-shield-logo.jpg)](https://gptocr-9ce3d.web.app)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/suyash-awari-622a58228)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/suyashawari)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@suyashawari)  
